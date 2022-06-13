@@ -42,10 +42,10 @@ public class AdministrativoApp {
 
         //1) Criando uma pessoa
         Pessoa pessoa = new Pessoa();
-        pessoa.setNome("Lorena Alessandra Nina Ramos");
-        pessoa.setEmail("lorenaalessandraramos@dgh.com.br");
-        pessoa.setTelefone("(67) 98218-3805");
-        pessoa.setCpf("569.426.470-39");
+        pessoa.setNome("Maria Josefina da Silva");
+        pessoa.setEmail("mariajosefina@gmail.com");
+        pessoa.setTelefone("(81) 99106.3034");
+        pessoa.setCpf("053.342.704-50");
 
         Calendar dataNascimento = Calendar.getInstance();
         dataNascimento.set(Calendar.YEAR, 1990);
